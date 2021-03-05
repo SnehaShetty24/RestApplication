@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.udemy.rest.ws.RestApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 5.845 s - in com.udemy.rest.ws.RestApplicationTests

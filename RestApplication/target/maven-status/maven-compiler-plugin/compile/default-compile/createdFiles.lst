@@ -1,0 +1,11 @@
+com\udemy\rest\ws\model\request\UpdateUserDetailModelRequest.class
+com\udemy\rest\ws\sharedpackage\Utils.class
+com\udemy\rest\ws\userservice\implement\UserServiceImp.class
+com\udemy\rest\ws\model\request\UserDetailModelRequest.class
+com\udemy\rest\ws\model\response\UserModel.class
+com\udemy\rest\ws\RestApplication.class
+com\udemy\rest\ws\controller\UserController.class
+com\udemy\rest\ws\exception\handler\UserServiceCustomException.class
+com\udemy\rest\ws\exception\handler\AppExceptionHandler.class
+com\udemy\rest\ws\model\response\ErrorMessage.class
+com\udemy\rest\ws\userservice\UserService.class
